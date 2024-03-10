@@ -1,0 +1,11 @@
+{
+    "name" : "IPL Tracker",
+    "version": "1.0.0",
+    "description": "IPL Matches Tracker",
+    "manifest_version": 3,
+    "author": "Chandra Bhanu Sahoo",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "IPL Tracker"
+    }
+}
